@@ -343,6 +343,40 @@
   color: #4a70a9;
 }
 /* Testimonial */
+.testimonial {
+  margin: 100px 150px;
+}
+.testimonial > p {
+  font-size: 15px;
+  text-align: center;
+}
+.testimonial > h3 {
+  font-size: 46px;
+  text-align: center;
+}
+.scard {
+  background-color: #939597;
+  color: #fff;
+  text-align: center;
+  padding: 80px 200px 80px 200px;
+}
+.scard > h2 {
+  padding-bottom: 20px;
+}
+.scard > h6 {
+  padding-top: 10px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.scard p:first-of-type {
+  font-size: 21px;
+  font-weight: 400;
+  padding-bottom: 20px;
+}
+.scard p:last-of-type {
+  font-size: 16px;
+  font-weight: 400;
+}
 /* Blog */
 /* Achievement */
 /* Contact */
